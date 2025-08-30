@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+backend_api/venv/
+frontend_app/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets file
+.env
+
+# VS Code settings
+.vscode/
+
+# ChromaDB persistent storage
+chroma_db/
+backend_api/chroma_db/
